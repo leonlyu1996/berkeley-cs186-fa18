@@ -1,0 +1,10 @@
+# Ignore all IntelliJ IDEA files
+.idea/*
+*.iml
+# Ignore all OSX hidden files
+*.DS_Store
+# Eclipse files
+.settings/
+.classpath
+.project
+/target/
