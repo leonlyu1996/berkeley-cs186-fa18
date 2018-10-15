@@ -1,0 +1,6 @@
+[submodule "hw1"]
+	path = hw1
+	url = git@github.com:zmkoo000/Fa18HW1.git
+[submodule "hw2"]
+	path = hw2
+	url = git@github.com:zmkoo000/Fa18HW2.git
